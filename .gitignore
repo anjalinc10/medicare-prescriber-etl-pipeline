@@ -1,0 +1,13 @@
+**/venv
+
+**/staging
+
+**/output
+
+**/.idea
+
+**/logs
+
+**/*.log
+
+**/__pycache__
